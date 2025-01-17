@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Resume_Parsing
-=======
+
 # Resume Parser with Gemini AI
 
 This application uses Google's Gemini AI to parse and analyze resumes in PDF format.

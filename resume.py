@@ -11,6 +11,7 @@ from langchain.chains import LLMChain
 load_dotenv()
 
 # Configure Google Gemini API
+GOOGLE API KEY = "AIzaSyDwlS39w8DpJDCNiLX2QAkxRLekBLVXS-8"
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 def extract_text_from_pdf(uploaded_file):
